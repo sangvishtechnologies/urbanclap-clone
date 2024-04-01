@@ -2,7 +2,7 @@
 
 In our modern, fast-paced lives, time is a precious commodity often in short supply. Balancing work, family, and social commitments can leave little room for attending to the myriad of tasks that demand attention. That's where an innovative solution like the Urbanclap Clone App steps in.
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“urbanclapclone.png" src="https://github.com/sangvishtechnologies/urbanclap-clone/blob/main/images/urbanclap-clone-1.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“urbanclapclone.png" src="https://github.com/sangvishtechnologies/urbanclap-clone/blob/main/images/urbanclap-clone-1.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 # What is UrbanClap Clone Scrip?
 An [UrbanClap Clone Script](https://sangvish.com/urbanclap-clone/) serves as a ready-made solution designed to mirror the fundamental attributes and operations of the authentic UrbanClap platform. It offers entrepreneurs a streamlined approach to establishing their own service marketplace, tailored to meet the demands of their specific audience.
