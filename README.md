@@ -1,6 +1,6 @@
 <h1 align="center">The UrbanClap Clone Solution for On-Demand Services</h1>
 
-In our modern, fast-paced lives, time is a precious commodity often in short supply. Balancing work, family, and social commitments can leave little room for attending to the myriad of tasks that demand attention. That's where an innovative solution like the Urbanclap Clone App steps in.
+In our modern, fast-paced lives, time is a precious commodity often in short supply. Balancing work, family, and social commitments can leave little room for attending to the myriad of tasks that demand attention. That's where an innovative solution like the [UrbanClap Clone App](https://sangvish.com/urbanclap-clone/) steps in.
 
 <div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“urbanclapclone.png" src="https://github.com/sangvishtechnologies/urbanclap-clone/blob/main/images/urbanclap-clone-1.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
